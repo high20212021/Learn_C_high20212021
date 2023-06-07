@@ -5,4 +5,6 @@ high20212021练习C的地方
 这里的代码大部分都是C Primer Plus第六版里面的
 这边顺便做个markdown语法练习  
 > printf("Hello,Markdown!");  
+> awa  
+- awa  
 
